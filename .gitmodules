@@ -1,0 +1,81 @@
+[submodule "cymem-feedstock"]
+	path = cymem-feedstock
+	url = git@github.com:conda-forge/cymem-feedstock.git
+[submodule "eli5-feedstock"]
+	path = eli5-feedstock
+	url = git@github.com:conda-forge/eli5-feedstock.git
+[submodule "fbprophet-feedstock"]
+	path = fbprophet-feedstock
+	url = git@github.com:conda-forge/fbprophet-feedstock.git
+[submodule "ftfy-feedstock"]
+	path = ftfy-feedstock
+	url = git@github.com:conda-forge/ftfy-feedstock.git
+[submodule "ijson-feedstock"]
+	path = ijson-feedstock
+	url = git@github.com:conda-forge/ijson-feedstock.git
+[submodule "kafkacat-feedstock"]
+	path = kafkacat-feedstock
+	url = git@github.com:conda-forge/kafkacat-feedstock.git
+[submodule "lz4-c-feedstock"]
+	path = lz4-c-feedstock
+	url = git@github.com:conda-forge/lz4-c-feedstock.git
+[submodule "lzfse-feedstock"]
+	path = lzfse-feedstock
+	url = git@github.com:conda-forge/lzfse-feedstock.git
+[submodule "lzo-feedstock"]
+	path = lzo-feedstock
+	url = git@github.com:conda-forge/lzo-feedstock.git
+[submodule "murmurhash-feedstock"]
+	path = murmurhash-feedstock
+	url = git@github.com:conda-forge/murmurhash-feedstock.git
+[submodule "preshed-feedstock"]
+	path = preshed-feedstock
+	url = git@github.com:conda-forge/preshed-feedstock.git
+[submodule "pyemd-feedstock"]
+	path = pyemd-feedstock
+	url = git@github.com:conda-forge/pyemd-feedstock.git
+[submodule "pyphen-feedstock"]
+	path = pyphen-feedstock
+	url = git@github.com:conda-forge/pyphen-feedstock.git
+[submodule "pystan-feedstock"]
+	path = pystan-feedstock
+	url = git@github.com:conda-forge/pystan-feedstock.git
+[submodule "python-confluent-kafka-feedstock"]
+	path = python-confluent-kafka-feedstock
+	url = git@github.com:conda-forge/python-confluent-kafka-feedstock.git
+[submodule "python-crfsuite-feedstock"]
+	path = python-crfsuite-feedstock
+	url = git@github.com:conda-forge/python-crfsuite-feedstock.git
+[submodule "backports.csv-feedstock"]
+	path = backports.csv-feedstock
+	url = git@github.com:conda-forge/backports.csv-feedstock.git
+[submodule "ragel-feedstock"]
+	path = ragel-feedstock
+	url = git@github.com:conda-forge/ragel-feedstock.git
+[submodule "scrapy-feedstock"]
+	path = scrapy-feedstock
+	url = git@github.com:conda-forge/scrapy-feedstock.git
+[submodule "semver-feedstock"]
+	path = semver-feedstock
+	url = git@github.com:conda-forge/semver-feedstock.git
+[submodule "snzip-feedstock"]
+	path = snzip-feedstock
+	url = git@github.com:conda-forge/snzip-feedstock.git
+[submodule "spacy-feedstock"]
+	path = spacy-feedstock
+	url = git@github.com:conda-forge/spacy-feedstock.git
+[submodule "sputnik-feedstock"]
+	path = sputnik-feedstock
+	url = git@github.com:conda-forge/sputnik-feedstock.git
+[submodule "squash-feedstock"]
+	path = squash-feedstock
+	url = git@github.com:conda-forge/squash-feedstock.git
+[submodule "thinc-feedstock"]
+	path = thinc-feedstock
+	url = git@github.com:conda-forge/thinc-feedstock.git
+[submodule "yajl-feedstock"]
+	path = yajl-feedstock
+	url = git@github.com:conda-forge/yajl-feedstock.git
+[submodule "zstd-feedstock"]
+	path = zstd-feedstock
+	url = git@github.com:conda-forge/zstd-feedstock.git
