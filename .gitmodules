@@ -79,3 +79,57 @@
 [submodule "zstd-feedstock"]
 	path = zstd-feedstock
 	url = git@github.com:conda-forge/zstd-feedstock.git
+[submodule "zstandard-feedstock"]
+	path = zstandard-feedstock
+	url = git@github.com:conda-forge/zstandard-feedstock.git
+[submodule "cld2-cffi-feedstock"]
+	path = cld2-cffi-feedstock
+	url = git@github.com:conda-forge/cld2-cffi-feedstock.git
+[submodule "textacy-feedstock"]
+	path = textacy-feedstock
+	url = git@github.com:conda-forge/textacy-feedstock.git
+[submodule "fastavro-feedstock"]
+	path = fastavro-feedstock
+	url = git@github.com:conda-forge/fastavro-feedstock.git
+[submodule "fuzzywuzzy-feedstock"]
+	path = fuzzywuzzy-feedstock
+	url = git@github.com:conda-forge/fuzzywuzzy-feedstock.git
+[submodule "librdkafka-feedstock"]
+	path = librdkafka-feedstock
+	url = git@github.com:conda-forge/librdkafka-feedstock.git
+[submodule "lmdb-feedstock"]
+	path = lmdb-feedstock
+	url = git@github.com:conda-forge/lmdb-feedstock.git
+[submodule "pathlib-feedstock"]
+	path = pathlib-feedstock
+	url = git@github.com:conda-forge/pathlib-feedstock.git
+[submodule "python-avro-feedstock"]
+	path = python-avro-feedstock
+	url = git@github.com:conda-forge/python-avro-feedstock.git
+[submodule "python-lmdb-feedstock"]
+	path = python-lmdb-feedstock
+	url = git@github.com:conda-forge/python-lmdb-feedstock.git
+[submodule "re2-feedstock"]
+	path = re2-feedstock
+	url = git@github.com:conda-forge/re2-feedstock.git
+[submodule "avro-feedstock"]
+	path = avro-feedstock
+	url = git@github.com:conda-forge/avro-feedstock.git
+[submodule "cachetools-feedstock"]
+	path = cachetools-feedstock
+	url = git@github.com:conda-forge/cachetools-feedstock.git
+[submodule "flatbuffers-feedstock"]
+	path = flatbuffers-feedstock
+	url = git@github.com:conda-forge/flatbuffers-feedstock.git
+[submodule "leveldb-feedstock"]
+	path = leveldb-feedstock
+	url = git@github.com:conda-forge/leveldb-feedstock.git
+[submodule "pytables-feedstock"]
+	path = pytables-feedstock
+	url = git@github.com:conda-forge/pytables-feedstock.git
+[submodule "snappy-feedstock"]
+	path = snappy-feedstock
+	url = git@github.com:conda-forge/snappy-feedstock.git
+[submodule "toolchain-feedstock"]
+	path = toolchain-feedstock
+	url = git@github.com:conda-forge/toolchain-feedstock.git
